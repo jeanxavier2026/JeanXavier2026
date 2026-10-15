@@ -1,6 +1,5 @@
 ##👋  Hello, beautiful people, here is another programming student. 👋
 
-            <i class="devicon-aarch64-plain colorido"></i>
           # Olá, eu sou o Jean! 👋
 
 Sou estudante de informática no **IEFP (Curso Profissional de Nível 4)** e estou a desenvolver as minhas competências na área do desenvolvimento de software e sistemas de informação.
@@ -13,18 +12,18 @@ Aqui estão as tecnologias que já estudei e com as quais tenho familiaridade:
 
 | Tecnologia | Emblema / Tag |
 | :--- | :--- |
-| **HTML5** | ![HTML5](https://shields.io) |
-| **CSS3** | ![CSS3](https://shields.io) |
-| **Lógica & Portugol** | ![Logica](https://shields.io) |
-| **SQL** | ![SQL](https://shields.io) |
-| **Git** | ![Git](https://shields.io) |
-| **GitHub** | ![GitHub](https://shields.io) |
+| **HTML5** | <img src="https://shields.io" height="25"> |
+| **CSS3** | <img src="https://shields.io" height="25"> |
+| **Lógica & Portugol** | <img src="https://shields.io" height="25"> |
+| **SQL** | <img src="https://shields.io" height="25"> |
+| **Git** | <img src="https://shields.io" height="25"> |
+| **GitHub** | <img src="https://shields.io" height="25"> |
 
 ---
 
 ## 📚 O que vou aprender neste Curso (Nível 4 IEFP)
 
-Com base no referencial técnico oficial de formação para o desenvolvimento de competências de nível 4, o meu plano de estudos inclui as seguintes áreas fundamentais que irei adicionar aqui assim que concluídas:
+Com base no referencial técnico oficial de formação para o desenvolvimento de competências de nível 4, o meu plano de estudos inclui as seguintes áreas fundamentais:
 
 ### 💻 Engenharia de Software e Algoritmia
 - **Algoritmia Avançada e Estruturas de Dados:** Criação de lógica complexa de programação.
@@ -49,18 +48,3 @@ Com base no referencial técnico oficial de formação para o desenvolvimento de
 
 ### 📫 Como entrar em contacto:
 - **GitHub:** [jeanxavier2026](https://github.com)
-
-<!--
-**jeanxavier2026/JeanXavier2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
