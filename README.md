@@ -10,17 +10,15 @@ Sou estudante de informática no **IEFP (Curso Profissional de Nível 4)** e est
 
 Aqui estão as tecnologias que já estudei e com as quais tenho familiaridade:
 
-| Tecnologia | Emblema / Tag |
-| :--- | :--- |
-| **HTML5** | <img src="https://shields.io" height="25"> |
-| **CSS3** | <img src="https://shields.io" height="25"> |
-| **Lógica & Portugol** | <img src="https://shields.io" height="25"> |
-| **SQL** | <img src="https://shields.io" height="25"> |
-| **Git** | <img src="https://shields.io" height="25"> |
-| **GitHub** | <img src="https://shields.io" height="25"> |
+<p align="left">
+  <img src="https://jsdelivr.net" alt="HTML5" width="45" height="45" style="margin-right: 15px;"/>
+  <img src="https://jsdelivr.net" alt="CSS3" width="45" height="45" style="margin-right: 15px;"/>
+  <img src="https://jsdelivr.net" alt="Git" width="45" height="45" style="margin-right: 15px;"/>
+  <img src="https://jsdelivr.net" alt="SQL" width="45" height="45" style="margin-right: 15px;"/>
+  <img src="https://jsdelivr.net" alt="GitHub" width="45" height="45" style="margin-right: 15px;"/>
+</p>
 
 ---
-
 ## 📚 O que vou aprender neste Curso (Nível 4 IEFP)
 
 Com base no referencial técnico oficial de formação para o desenvolvimento de competências de nível 4, o meu plano de estudos inclui as seguintes áreas fundamentais:
