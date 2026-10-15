@@ -10,13 +10,7 @@ Sou estudante de informática no **IEFP (Curso Profissional de Nível 4)** e est
 
 Aqui estão as tecnologias que já estudei e com as quais tenho familiaridade:
 
-<p align="left">
-  <img src="https://jsdelivr.net" alt="HTML5" width="45" height="45" style="margin-right: 15px;"/>
-  <img src="https://jsdelivr.net" alt="CSS3" width="45" height="45" style="margin-right: 15px;"/>
-  <img src="https://jsdelivr.net" alt="Git" width="45" height="45" style="margin-right: 15px;"/>
-  <img src="https://jsdelivr.net" alt="SQL" width="45" height="45" style="margin-right: 15px;"/>
-  <img src="https://jsdelivr.net" alt="GitHub" width="45" height="45" style="margin-right: 15px;"/>
-</p>
+🌐 **HTML5** &nbsp;&nbsp;·&nbsp;&nbsp; 🎨 **CSS3** &nbsp;&nbsp;·&nbsp;&nbsp; 🧠 **Lógica & Portugol** &nbsp;&nbsp;·&nbsp;&nbsp; 🗄️ **SQL** &nbsp;&nbsp;·&nbsp;&nbsp; 🌿 **Git** &nbsp;&nbsp;·&nbsp;&nbsp; 🐙 **GitHub**
 
 ---
 ## 📚 O que vou aprender neste Curso (Nível 4 IEFP)
