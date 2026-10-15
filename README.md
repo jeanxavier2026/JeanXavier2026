@@ -43,3 +43,11 @@ Com base no referencial técnico oficial de formação para o desenvolvimento de
 
 ### 📫 Como entrar em contacto:
 - **GitHub:** [jeanxavier2026](https://github.com)
+
+- 
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180" src="https://vercel.app" alt="Estatísticas do GitHub de Jean" />
+</p>
+
