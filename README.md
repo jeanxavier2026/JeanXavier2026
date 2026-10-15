@@ -37,9 +37,9 @@ Com base no referencial técnico oficial de formação para o desenvolvimento de
 - 🎓 **Próximo passo:** Iniciar os projetos práticos de desenvolvimento de software do curso.
 
 ---
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanXavier16520a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true%22"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanXavier520a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true%22"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean_Xavier15520a&layout=compact&theme=tokyonight%22"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean_Xavier520a&layout=compact&theme=tokyonight%22"/>
 
 ### 📫 Como entrar em contacto:
 - **GitHub:** [jeanxavier2026](https://github.com)
