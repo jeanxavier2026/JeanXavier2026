@@ -1,4 +1,4 @@
-## Hi there 👋
+##👋  Hello, beautiful people—here is another programming student. 👋
 
 <!--
 **jeanxavier2026/JeanXavier2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
